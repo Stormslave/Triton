@@ -1,1 +1,1 @@
-An emulation depecting the RuneScape RS2 era - This is for learning and demonstration purposes
+An emulation depecting the RuneScape RS2 era - Uses the netty networking API, this is solely for learning purposes and nothing more
