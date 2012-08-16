@@ -1,1 +1,1 @@
-Testing
+An emulation depecting the RuneScape RS2 era - This is for learning and demonstration purposes
